@@ -1,0 +1,1 @@
+This is the inital addition to README.md, before any branches were created in the local repository.
